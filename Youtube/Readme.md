@@ -2,6 +2,8 @@
 
 This script utilizes YT-DLP to download and backup content from up to four YouTube channels. It's a convenient tool to ensure that you have local copies of videos from your favorite channels.
 
+After the first download, YT-DLP automatically keeps track of the videos already downloaded, they are saved in the respective channels txt file.
+
 ## Setup
 
 - Make sure to have the latest [yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#release-files) release.
