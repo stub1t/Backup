@@ -6,7 +6,7 @@ After the first download, YT-DLP automatically keeps track of the videos already
 
 ## Setup
 
-- Make sure to have the latest [yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#release-files) release.
+- Make sure to have the latest [yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#release-files) release
 - Configure `channels.txt` to add you YouTube-Channels you want to backup
   ```
   https://www.youtube.com/@ippsec/videos
